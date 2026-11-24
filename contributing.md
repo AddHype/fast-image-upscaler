@@ -168,4 +168,4 @@ stores them, and avoids upload time on large files.
 
 ---
 
-*fast-image-upscaler · Updated 2026-11-23 · Shared under the MIT License*
+*fast-image-upscaler · Updated 2026-11-24 · Shared under the MIT License*
